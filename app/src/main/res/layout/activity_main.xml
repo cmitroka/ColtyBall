@@ -213,12 +213,14 @@
                                 android:layout_weight="1">
                             </TextView>
                             <EditText android:text=""
+                                android:id="@+id/txtA1"
                                 android:layout_width="30dp"
                                 android:layout_column="1"
                                 android:layout_weight="1"
                                 android:inputType="number">
                             </EditText>
                             <EditText android:text=""
+                                android:id="@+id/txtB1"
                                 android:layout_width="30dp"
                                 android:layout_column="2"
                                 android:layout_weight="1"
@@ -233,12 +235,14 @@
                                 android:layout_weight="1">
                             </TextView>
                             <EditText android:text=""
+                                android:id="@+id/txtA2"
                                 android:layout_width="30dp"
                                 android:layout_column="1"
                                 android:layout_weight="1"
                                 android:inputType="number">
                             </EditText>
                             <EditText android:text=""
+                                android:id="@+id/txtB2"
                                 android:layout_width="30dp"
                                 android:layout_column="2"
                                 android:layout_weight="1"
@@ -253,12 +257,14 @@
                                 android:layout_weight="1">
                             </TextView>
                             <EditText android:text=""
+                                android:id="@+id/txtA3"
                                 android:layout_width="30dp"
                                 android:layout_column="1"
                                 android:layout_weight="1"
                                 android:inputType="number">
                             </EditText>
                             <EditText android:text=""
+                                android:id="@+id/txtB3"
                                 android:layout_width="30dp"
                                 android:layout_column="2"
                                 android:layout_weight="1"
@@ -273,12 +279,14 @@
                                 android:layout_weight="1">
                             </TextView>
                             <EditText android:text=""
+                                android:id="@+id/txtA4"
                                 android:layout_width="30dp"
                                 android:layout_column="1"
                                 android:layout_weight="1"
                                 android:inputType="number">
                             </EditText>
                             <EditText android:text=""
+                                android:id="@+id/txtB4"
                                 android:layout_width="30dp"
                                 android:layout_column="2"
                                 android:layout_weight="1"
@@ -293,12 +301,14 @@
                                 android:layout_weight="1">
                             </TextView>
                             <EditText android:text=""
+                                android:id="@+id/txtA5"
                                 android:layout_width="30dp"
                                 android:layout_column="1"
                                 android:layout_weight="1"
                                 android:inputType="number">
                             </EditText>
                             <EditText android:text=""
+                                android:id="@+id/txtB5"
                                 android:layout_width="30dp"
                                 android:layout_column="2"
                                 android:layout_weight="1"
@@ -313,12 +323,14 @@
                                 android:layout_weight="1">
                             </TextView>
                             <EditText android:text=""
+                                android:id="@+id/txtA6"
                                 android:layout_width="30dp"
                                 android:layout_column="1"
                                 android:layout_weight="1"
                                 android:inputType="number">
                             </EditText>
                             <EditText android:text=""
+                                android:id="@+id/txtB6"
                                 android:layout_width="30dp"
                                 android:layout_column="2"
                                 android:layout_weight="1"
@@ -333,12 +345,14 @@
                                 android:layout_weight="1">
                             </TextView>
                             <EditText android:text=""
+                                android:id="@+id/txtA7"
                                 android:layout_width="30dp"
                                 android:layout_column="1"
                                 android:layout_weight="1"
                                 android:inputType="number">
                             </EditText>
                             <EditText android:text=""
+                                android:id="@+id/txtB7"
                                 android:layout_width="30dp"
                                 android:layout_column="2"
                                 android:layout_weight="1"
@@ -353,12 +367,14 @@
                                 android:layout_weight="1">
                             </TextView>
                             <EditText android:text=""
+                                android:id="@+id/txtA8"
                                 android:layout_width="30dp"
                                 android:layout_column="1"
                                 android:layout_weight="1"
                                 android:inputType="number">
                             </EditText>
                             <EditText android:text=""
+                                android:id="@+id/txt8"
                                 android:layout_width="30dp"
                                 android:layout_column="2"
                                 android:layout_weight="1"
@@ -373,18 +389,21 @@
                                 android:layout_weight="1">
                             </TextView>
                             <EditText android:text=""
+                                android:id="@+id/txtA9"
                                 android:layout_width="30dp"
                                 android:layout_column="1"
                                 android:layout_weight="1"
                                 android:inputType="number">
                             </EditText>
                             <EditText android:text=""
+                                android:id="@+id/txt9"
                                 android:layout_width="30dp"
                                 android:layout_column="2"
                                 android:layout_weight="1"
                                 android:inputType="number">
                             </EditText>
                         </TableRow>
+
                     </TableLayout>
                 </ScrollView>
             </TableLayout>

@@ -11,6 +11,7 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
     private TextView txtHit;
+    private TextView txtScore;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
